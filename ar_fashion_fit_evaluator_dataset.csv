@@ -1,0 +1,301 @@
+user_id,height_cm,weight_kg,chest_cm,waist_cm,hip_cm,garment_id,garment_type,size,AR_fit_score,feedback_text
+U100,162,51,103,73,92,G210,Dress,S,1,Sleeves and waist don't fit at all
+U101,189,55,98,78,86,G501,T-Shirt,XS,2,Loose around shoulders
+U102,187,88,80,82,91,G321,Hoodie,L,2,Waist area too tight
+U103,172,50,104,90,90,G456,Skirt,M,3,Fits chest but loose at waist
+U104,168,71,83,67,97,G302,Jeans,M,3,Sleeves slightly long
+U105,171,52,103,79,102,G302,Jeans,L,1,Sleeves and waist don't fit at all
+U106,173,90,99,93,96,G654,Blazer,S,1,Too tight overall
+U107,169,68,82,92,92,G302,Jeans,L,3,Good length but too tight at hips
+U108,178,60,91,76,91,G888,Kurta,XS,5,Ideal for body shape
+U109,165,84,103,72,90,G789,Sweater,L,3,Sleeves slightly long
+U110,190,64,101,75,109,G501,T-Shirt,S,1,"Very loose, not wearable"
+U111,180,67,82,71,103,G123,Shirt,S,4,"Comfortable fit, minor looseness at waist"
+U112,184,59,88,69,92,G321,Hoodie,XL,3,Sleeves slightly long
+U113,182,87,92,76,92,G701,Jacket,XL,4,"Good fit, slight adjustments needed"
+U114,158,57,84,85,90,G456,Skirt,XL,1,"Very loose, not wearable"
+U115,179,88,94,81,93,G321,Hoodie,XS,1,Sleeves and waist don't fit at all
+U116,189,67,104,85,95,G302,Jeans,M,4,"Good fit, slight adjustments needed"
+U117,184,50,110,88,108,G888,Kurta,XL,2,"Sleeves short, chest ok"
+U118,161,90,89,91,105,G321,Hoodie,XL,2,Loose around shoulders
+U119,178,60,97,95,109,G321,Hoodie,XS,5,"Excellent fit, natural flow"
+U120,186,51,83,94,96,G888,Kurta,S,1,Too tight overall
+U121,160,55,103,80,87,G321,Hoodie,S,2,"Sleeves short, chest ok"
+U122,185,85,85,73,101,G654,Blazer,L,2,"Sleeves short, chest ok"
+U123,167,95,89,77,106,G123,Shirt,L,5,"Excellent fit, natural flow"
+U124,162,65,87,67,95,G501,T-Shirt,XL,5,Perfect fit overall
+U125,169,50,82,87,105,G501,T-Shirt,S,1,Too tight overall
+U126,176,54,96,72,93,G789,Sweater,S,5,Perfect fit overall
+U127,185,65,105,80,110,G456,Skirt,S,1,Too tight overall
+U128,182,72,93,78,99,G501,T-Shirt,XS,1,"Very loose, not wearable"
+U129,176,56,87,71,91,G321,Hoodie,L,2,Waist area too tight
+U130,166,67,94,72,87,G789,Sweater,XL,1,Too tight overall
+U131,189,50,82,94,109,G210,Dress,S,4,"Comfortable fit, minor looseness at waist"
+U132,185,63,107,77,86,G701,Jacket,L,1,"Very loose, not wearable"
+U133,171,79,89,78,107,G321,Hoodie,L,2,Loose around shoulders
+U134,173,63,110,66,103,G321,Hoodie,XS,3,Fits chest but loose at waist
+U135,158,87,95,81,101,G701,Jacket,XS,5,Perfect fit overall
+U136,166,54,99,67,106,G210,Dress,L,1,Sleeves and waist don't fit at all
+U137,170,87,99,66,104,G302,Jeans,L,5,Ideal for body shape
+U138,188,70,109,73,91,G123,Shirt,S,3,Good length but too tight at hips
+U139,163,92,100,74,99,G123,Shirt,XS,1,"Very loose, not wearable"
+U140,161,54,97,71,101,G888,Kurta,S,3,Fits chest but loose at waist
+U141,170,73,89,70,99,G321,Hoodie,M,5,Ideal for body shape
+U142,188,50,101,91,102,G888,Kurta,XS,2,Waist area too tight
+U143,162,56,103,82,89,G888,Kurta,M,5,Perfect fit overall
+U144,176,63,101,85,93,G321,Hoodie,L,3,Fits chest but loose at waist
+U145,160,90,93,91,93,G501,T-Shirt,XS,3,Fits chest but loose at waist
+U146,171,60,103,79,102,G456,Skirt,XL,1,Too tight overall
+U147,159,94,108,69,102,G501,T-Shirt,M,5,Ideal for body shape
+U148,164,77,84,66,94,G123,Shirt,XS,3,Fits chest but loose at waist
+U149,170,92,83,76,109,G321,Hoodie,L,5,Ideal for body shape
+U150,164,65,107,70,110,G701,Jacket,L,1,Too tight overall
+U151,176,76,105,86,108,G210,Dress,M,2,"Sleeves short, chest ok"
+U152,161,74,107,66,100,G210,Dress,S,4,"Comfortable fit, minor looseness at waist"
+U153,174,64,87,65,106,G210,Dress,L,3,Good length but too tight at hips
+U154,159,67,91,85,101,G456,Skirt,XL,3,Fits chest but loose at waist
+U155,162,66,85,83,93,G501,T-Shirt,XS,5,"Excellent fit, natural flow"
+U156,177,70,93,84,101,G302,Jeans,L,5,Perfect fit overall
+U157,171,52,102,78,85,G321,Hoodie,XL,2,Waist area too tight
+U158,182,54,110,86,95,G654,Blazer,M,1,Sleeves and waist don't fit at all
+U159,174,82,89,86,98,G123,Shirt,L,3,Sleeves slightly long
+U160,163,62,93,86,97,G701,Jacket,XL,5,"Excellent fit, natural flow"
+U161,180,85,106,65,94,G888,Kurta,S,4,"Perfect chest fit, length a bit off"
+U162,175,79,94,79,106,G210,Dress,XL,4,"Perfect chest fit, length a bit off"
+U163,165,92,82,74,101,G654,Blazer,M,1,Too tight overall
+U164,174,64,105,71,89,G501,T-Shirt,XS,2,Waist area too tight
+U165,159,79,93,93,105,G654,Blazer,S,4,"Comfortable fit, minor looseness at waist"
+U166,180,65,84,85,107,G501,T-Shirt,XS,4,"Good fit, slight adjustments needed"
+U167,166,94,96,79,86,G321,Hoodie,S,1,"Very loose, not wearable"
+U168,163,79,101,81,102,G654,Blazer,M,4,"Perfect chest fit, length a bit off"
+U169,187,77,106,94,102,G789,Sweater,S,4,"Comfortable fit, minor looseness at waist"
+U170,171,65,106,85,93,G321,Hoodie,L,2,Waist area too tight
+U171,183,54,102,74,92,G888,Kurta,M,3,Sleeves slightly long
+U172,160,58,84,72,97,G701,Jacket,S,1,"Very loose, not wearable"
+U173,181,71,97,79,98,G501,T-Shirt,S,4,"Comfortable fit, minor looseness at waist"
+U174,156,86,92,80,85,G123,Shirt,M,4,"Comfortable fit, minor looseness at waist"
+U175,189,84,105,84,92,G789,Sweater,S,3,Good length but too tight at hips
+U176,186,51,92,75,106,G456,Skirt,S,4,"Good fit, slight adjustments needed"
+U177,189,51,109,77,103,G654,Blazer,XS,1,Sleeves and waist don't fit at all
+U178,182,58,107,79,90,G501,T-Shirt,M,4,"Comfortable fit, minor looseness at waist"
+U179,168,79,90,75,109,G456,Skirt,M,4,"Comfortable fit, minor looseness at waist"
+U180,160,80,80,88,102,G501,T-Shirt,M,2,"Sleeves short, chest ok"
+U181,159,91,81,89,85,G210,Dress,S,1,Sleeves and waist don't fit at all
+U182,164,65,84,80,106,G302,Jeans,XL,2,Waist area too tight
+U183,171,73,85,84,104,G302,Jeans,S,3,Fits chest but loose at waist
+U184,156,69,98,86,97,G456,Skirt,S,1,Sleeves and waist don't fit at all
+U185,170,56,102,89,94,G654,Blazer,XS,5,Perfect fit overall
+U186,177,84,93,86,96,G302,Jeans,XL,3,Fits chest but loose at waist
+U187,181,81,83,78,96,G789,Sweater,S,4,"Good fit, slight adjustments needed"
+U188,188,91,88,84,110,G321,Hoodie,L,4,"Comfortable fit, minor looseness at waist"
+U189,172,70,107,72,87,G888,Kurta,L,2,Waist area too tight
+U190,179,71,80,80,95,G701,Jacket,L,2,Waist area too tight
+U191,171,71,88,93,104,G888,Kurta,XL,1,Sleeves and waist don't fit at all
+U192,167,55,87,88,98,G789,Sweater,XL,2,"Sleeves short, chest ok"
+U193,185,91,102,80,99,G501,T-Shirt,XS,3,Fits chest but loose at waist
+U194,180,94,87,74,106,G654,Blazer,M,4,"Perfect chest fit, length a bit off"
+U195,188,72,93,88,102,G123,Shirt,M,4,"Comfortable fit, minor looseness at waist"
+U196,174,66,87,68,108,G210,Dress,M,1,Sleeves and waist don't fit at all
+U197,189,94,85,71,91,G789,Sweater,M,5,Ideal for body shape
+U198,173,56,106,71,94,G210,Dress,M,2,Waist area too tight
+U199,155,95,97,69,93,G501,T-Shirt,XS,5,"Excellent fit, natural flow"
+U200,163,90,107,89,100,G302,Jeans,XS,5,"Excellent fit, natural flow"
+U201,185,80,94,75,90,G501,T-Shirt,M,4,"Good fit, slight adjustments needed"
+U202,159,75,95,67,103,G501,T-Shirt,S,2,"Sleeves short, chest ok"
+U203,174,55,87,68,102,G456,Skirt,XL,5,Ideal for body shape
+U204,169,83,92,79,99,G888,Kurta,XL,4,"Comfortable fit, minor looseness at waist"
+U205,158,89,110,88,88,G210,Dress,S,3,Sleeves slightly long
+U206,160,60,87,70,102,G302,Jeans,S,1,"Very loose, not wearable"
+U207,183,94,99,80,94,G501,T-Shirt,S,3,Sleeves slightly long
+U208,173,94,107,79,87,G210,Dress,M,5,Ideal for body shape
+U209,167,77,83,82,92,G701,Jacket,M,2,Loose around shoulders
+U210,158,60,105,74,104,G654,Blazer,M,4,"Good fit, slight adjustments needed"
+U211,184,94,89,87,97,G888,Kurta,XL,5,"Excellent fit, natural flow"
+U212,183,55,99,66,98,G123,Shirt,XL,3,Fits chest but loose at waist
+U213,160,64,110,86,103,G654,Blazer,XS,3,Sleeves slightly long
+U214,157,61,95,81,105,G789,Sweater,M,2,"Sleeves short, chest ok"
+U215,182,90,106,80,87,G789,Sweater,M,4,"Comfortable fit, minor looseness at waist"
+U216,175,92,83,92,90,G123,Shirt,L,4,"Comfortable fit, minor looseness at waist"
+U217,180,85,81,79,87,G123,Shirt,M,3,Fits chest but loose at waist
+U218,180,82,106,65,106,G321,Hoodie,L,4,"Good fit, slight adjustments needed"
+U219,167,83,91,84,109,G789,Sweater,L,1,Too tight overall
+U220,172,85,84,94,94,G789,Sweater,L,1,Too tight overall
+U221,170,95,85,74,102,G501,T-Shirt,XL,4,"Good fit, slight adjustments needed"
+U222,169,57,94,95,88,G701,Jacket,L,3,Sleeves slightly long
+U223,172,76,106,80,100,G210,Dress,L,5,Perfect fit overall
+U224,179,62,109,84,101,G701,Jacket,XS,3,Good length but too tight at hips
+U225,176,82,88,91,85,G888,Kurta,M,5,Ideal for body shape
+U226,186,59,94,82,100,G123,Shirt,M,5,Ideal for body shape
+U227,179,79,109,75,91,G210,Dress,XL,4,"Good fit, slight adjustments needed"
+U228,181,52,90,88,100,G456,Skirt,L,2,Waist area too tight
+U229,157,58,96,95,103,G123,Shirt,XS,4,"Good fit, slight adjustments needed"
+U230,188,79,80,88,89,G456,Skirt,S,1,"Very loose, not wearable"
+U231,171,71,99,87,97,G302,Jeans,M,5,"Excellent fit, natural flow"
+U232,175,90,102,93,109,G789,Sweater,XL,1,Sleeves and waist don't fit at all
+U233,159,65,100,86,94,G210,Dress,XS,4,"Good fit, slight adjustments needed"
+U234,161,78,85,87,94,G501,T-Shirt,XS,3,Fits chest but loose at waist
+U235,173,72,91,78,89,G210,Dress,XL,4,"Perfect chest fit, length a bit off"
+U236,166,60,85,67,104,G456,Skirt,XL,2,Waist area too tight
+U237,164,64,94,85,93,G789,Sweater,M,1,"Very loose, not wearable"
+U238,173,93,97,70,87,G789,Sweater,M,5,"Excellent fit, natural flow"
+U239,182,94,88,79,94,G210,Dress,L,4,"Good fit, slight adjustments needed"
+U240,170,74,98,76,103,G888,Kurta,M,1,Sleeves and waist don't fit at all
+U241,180,67,80,83,106,G501,T-Shirt,XL,4,"Comfortable fit, minor looseness at waist"
+U242,169,88,105,76,92,G210,Dress,XL,3,Sleeves slightly long
+U243,163,90,83,93,105,G501,T-Shirt,M,4,"Good fit, slight adjustments needed"
+U244,178,58,82,94,94,G123,Shirt,L,2,Loose around shoulders
+U245,163,84,108,76,101,G321,Hoodie,M,2,Waist area too tight
+U246,185,68,103,92,95,G302,Jeans,L,1,Too tight overall
+U247,169,93,103,86,97,G321,Hoodie,M,1,"Very loose, not wearable"
+U248,155,66,97,68,99,G123,Shirt,M,5,"Excellent fit, natural flow"
+U249,178,56,101,72,100,G501,T-Shirt,XL,5,"Excellent fit, natural flow"
+U250,169,91,82,85,99,G888,Kurta,L,1,Too tight overall
+U251,157,52,89,80,88,G302,Jeans,S,5,Perfect fit overall
+U252,179,79,91,86,108,G321,Hoodie,L,5,Ideal for body shape
+U253,164,76,100,68,100,G654,Blazer,L,3,Fits chest but loose at waist
+U254,178,63,94,79,92,G123,Shirt,XS,3,Sleeves slightly long
+U255,177,53,92,73,91,G302,Jeans,L,1,Sleeves and waist don't fit at all
+U256,168,91,100,84,85,G501,T-Shirt,M,2,Loose around shoulders
+U257,168,54,106,89,102,G210,Dress,XL,2,Loose around shoulders
+U258,176,59,105,93,104,G501,T-Shirt,M,2,Loose around shoulders
+U259,189,66,105,70,88,G501,T-Shirt,S,1,"Very loose, not wearable"
+U260,170,87,90,65,90,G888,Kurta,XS,2,"Sleeves short, chest ok"
+U261,181,83,83,88,87,G789,Sweater,L,3,Sleeves slightly long
+U262,161,78,96,72,104,G501,T-Shirt,XL,3,Good length but too tight at hips
+U263,156,53,95,92,97,G456,Skirt,XS,4,"Perfect chest fit, length a bit off"
+U264,183,54,108,67,95,G654,Blazer,S,1,Too tight overall
+U265,172,89,100,83,102,G123,Shirt,L,5,Ideal for body shape
+U266,173,79,96,84,98,G302,Jeans,XS,5,Ideal for body shape
+U267,168,77,94,93,92,G456,Skirt,M,4,"Comfortable fit, minor looseness at waist"
+U268,181,56,90,78,95,G888,Kurta,M,2,"Sleeves short, chest ok"
+U269,185,54,82,91,87,G302,Jeans,L,1,Sleeves and waist don't fit at all
+U270,178,58,97,66,103,G321,Hoodie,XL,3,Sleeves slightly long
+U271,162,76,91,92,106,G456,Skirt,XS,3,Sleeves slightly long
+U272,174,72,83,83,101,G210,Dress,S,4,"Good fit, slight adjustments needed"
+U273,161,72,107,82,96,G302,Jeans,M,5,Perfect fit overall
+U274,182,85,104,91,104,G654,Blazer,XL,1,Sleeves and waist don't fit at all
+U275,172,51,85,73,107,G888,Kurta,M,3,Fits chest but loose at waist
+U276,166,59,98,86,97,G302,Jeans,S,1,Too tight overall
+U277,188,63,92,78,99,G123,Shirt,S,3,Good length but too tight at hips
+U278,175,86,99,67,86,G701,Jacket,S,5,Perfect fit overall
+U279,160,67,94,86,98,G789,Sweater,XL,4,"Comfortable fit, minor looseness at waist"
+U280,172,63,104,81,88,G123,Shirt,L,1,"Very loose, not wearable"
+U281,186,83,101,74,86,G210,Dress,L,5,Perfect fit overall
+U282,155,63,89,95,91,G701,Jacket,M,3,Good length but too tight at hips
+U283,162,50,95,88,98,G701,Jacket,S,4,"Perfect chest fit, length a bit off"
+U284,169,82,97,91,106,G123,Shirt,XS,4,"Perfect chest fit, length a bit off"
+U285,157,77,80,79,87,G123,Shirt,XL,4,"Perfect chest fit, length a bit off"
+U286,180,95,100,78,94,G302,Jeans,L,1,"Very loose, not wearable"
+U287,165,89,94,91,107,G123,Shirt,XS,4,"Good fit, slight adjustments needed"
+U288,170,77,98,77,101,G302,Jeans,L,3,Sleeves slightly long
+U289,176,64,90,89,90,G302,Jeans,XL,1,Sleeves and waist don't fit at all
+U290,187,62,108,89,96,G123,Shirt,S,2,Loose around shoulders
+U291,164,66,86,70,104,G701,Jacket,XS,2,"Sleeves short, chest ok"
+U292,186,79,104,83,109,G654,Blazer,L,5,Ideal for body shape
+U293,175,90,90,69,99,G302,Jeans,L,4,"Perfect chest fit, length a bit off"
+U294,174,67,98,66,96,G321,Hoodie,XS,3,Good length but too tight at hips
+U295,183,52,81,76,94,G302,Jeans,XS,5,Ideal for body shape
+U296,187,74,94,83,102,G501,T-Shirt,L,5,Ideal for body shape
+U297,167,70,99,80,101,G701,Jacket,XS,4,"Good fit, slight adjustments needed"
+U298,176,95,82,81,105,G701,Jacket,XS,2,"Sleeves short, chest ok"
+U299,183,78,96,81,104,G701,Jacket,M,3,Good length but too tight at hips
+U300,179,76,104,75,106,G654,Blazer,XS,3,Fits chest but loose at waist
+U301,176,56,97,86,97,G888,Kurta,M,5,Perfect fit overall
+U302,176,55,98,86,89,G123,Shirt,M,4,"Good fit, slight adjustments needed"
+U303,160,69,97,77,105,G123,Shirt,S,5,Perfect fit overall
+U304,182,82,91,65,96,G888,Kurta,S,2,Waist area too tight
+U305,186,62,87,69,89,G302,Jeans,M,1,Sleeves and waist don't fit at all
+U306,189,83,81,86,95,G654,Blazer,S,5,"Excellent fit, natural flow"
+U307,164,60,85,91,107,G654,Blazer,S,4,"Good fit, slight adjustments needed"
+U308,181,73,101,88,92,G789,Sweater,XL,3,Sleeves slightly long
+U309,183,64,97,72,94,G789,Sweater,S,3,Sleeves slightly long
+U310,183,79,104,74,109,G456,Skirt,XL,5,"Excellent fit, natural flow"
+U311,165,62,105,84,89,G888,Kurta,XS,4,"Comfortable fit, minor looseness at waist"
+U312,190,56,102,92,101,G302,Jeans,M,1,Too tight overall
+U313,172,78,108,81,89,G456,Skirt,XS,2,Waist area too tight
+U314,177,51,93,66,97,G321,Hoodie,M,2,Waist area too tight
+U315,160,73,87,65,95,G302,Jeans,M,2,Loose around shoulders
+U316,157,68,109,91,100,G701,Jacket,L,4,"Perfect chest fit, length a bit off"
+U317,155,55,80,73,91,G701,Jacket,XL,5,Ideal for body shape
+U318,182,57,104,74,92,G888,Kurta,XS,1,Too tight overall
+U319,181,90,105,84,99,G302,Jeans,XS,4,"Perfect chest fit, length a bit off"
+U320,189,51,100,81,103,G210,Dress,S,3,Good length but too tight at hips
+U321,155,89,91,72,103,G456,Skirt,S,1,Sleeves and waist don't fit at all
+U322,178,54,110,81,102,G321,Hoodie,XL,5,Perfect fit overall
+U323,179,80,81,85,97,G123,Shirt,M,1,"Very loose, not wearable"
+U324,159,72,87,88,106,G302,Jeans,XL,3,Fits chest but loose at waist
+U325,157,72,97,75,105,G701,Jacket,L,4,"Perfect chest fit, length a bit off"
+U326,166,58,82,87,109,G789,Sweater,XS,3,Fits chest but loose at waist
+U327,157,62,108,66,95,G888,Kurta,XL,4,"Perfect chest fit, length a bit off"
+U328,185,66,81,89,105,G210,Dress,M,3,Fits chest but loose at waist
+U329,176,67,83,90,96,G456,Skirt,L,4,"Comfortable fit, minor looseness at waist"
+U330,176,61,95,87,100,G123,Shirt,XL,3,Fits chest but loose at waist
+U331,182,55,93,84,90,G321,Hoodie,M,3,Fits chest but loose at waist
+U332,160,70,101,74,94,G789,Sweater,XL,4,"Good fit, slight adjustments needed"
+U333,183,72,94,66,108,G123,Shirt,XL,4,"Comfortable fit, minor looseness at waist"
+U334,158,54,101,85,97,G123,Shirt,XL,2,Loose around shoulders
+U335,164,88,101,90,99,G501,T-Shirt,S,1,Too tight overall
+U336,178,73,92,95,103,G501,T-Shirt,XL,2,"Sleeves short, chest ok"
+U337,183,73,91,79,109,G302,Jeans,XL,2,"Sleeves short, chest ok"
+U338,178,75,90,85,93,G210,Dress,XS,1,Sleeves and waist don't fit at all
+U339,166,81,96,77,102,G302,Jeans,M,3,Sleeves slightly long
+U340,183,63,99,74,107,G789,Sweater,S,1,Too tight overall
+U341,159,78,85,93,107,G789,Sweater,XS,3,Sleeves slightly long
+U342,177,95,82,82,102,G888,Kurta,M,2,"Sleeves short, chest ok"
+U343,166,73,96,72,88,G210,Dress,S,2,Waist area too tight
+U344,156,73,97,83,96,G789,Sweater,XL,2,"Sleeves short, chest ok"
+U345,160,54,89,77,107,G789,Sweater,XL,4,"Comfortable fit, minor looseness at waist"
+U346,159,58,90,85,87,G789,Sweater,L,5,"Excellent fit, natural flow"
+U347,163,85,100,83,90,G701,Jacket,L,5,Perfect fit overall
+U348,162,83,84,74,90,G701,Jacket,M,2,Waist area too tight
+U349,188,68,107,67,93,G210,Dress,XL,3,Fits chest but loose at waist
+U350,174,89,97,67,101,G701,Jacket,XL,5,Perfect fit overall
+U351,165,92,99,88,104,G123,Shirt,XL,1,Too tight overall
+U352,160,52,110,85,109,G654,Blazer,M,2,"Sleeves short, chest ok"
+U353,181,89,100,65,100,G321,Hoodie,M,3,Good length but too tight at hips
+U354,170,93,92,74,99,G302,Jeans,XS,2,Waist area too tight
+U355,181,80,94,71,95,G654,Blazer,S,3,Sleeves slightly long
+U356,175,72,92,69,109,G123,Shirt,XL,5,Perfect fit overall
+U357,175,65,94,68,93,G789,Sweater,S,2,Loose around shoulders
+U358,158,68,110,77,104,G456,Skirt,S,2,Waist area too tight
+U359,175,62,104,70,100,G321,Hoodie,L,4,"Comfortable fit, minor looseness at waist"
+U360,186,51,82,95,97,G321,Hoodie,L,2,Loose around shoulders
+U361,177,53,81,74,100,G654,Blazer,L,3,Sleeves slightly long
+U362,155,56,93,69,93,G123,Shirt,L,3,Fits chest but loose at waist
+U363,180,53,98,82,91,G123,Shirt,XL,3,Fits chest but loose at waist
+U364,179,82,94,89,102,G888,Kurta,XL,5,Perfect fit overall
+U365,163,56,92,76,110,G123,Shirt,XL,3,Fits chest but loose at waist
+U366,167,88,96,77,101,G501,T-Shirt,XS,1,Too tight overall
+U367,176,80,96,79,89,G654,Blazer,XL,2,Waist area too tight
+U368,175,60,92,84,108,G888,Kurta,XL,3,Sleeves slightly long
+U369,187,84,95,87,103,G888,Kurta,L,1,"Very loose, not wearable"
+U370,176,93,83,78,103,G888,Kurta,XS,5,"Excellent fit, natural flow"
+U371,171,91,105,89,103,G654,Blazer,S,1,Sleeves and waist don't fit at all
+U372,185,60,96,85,108,G654,Blazer,L,2,"Sleeves short, chest ok"
+U373,170,52,98,95,107,G302,Jeans,S,1,"Very loose, not wearable"
+U374,175,76,84,78,107,G210,Dress,L,5,Ideal for body shape
+U375,185,53,102,69,101,G210,Dress,XL,3,Sleeves slightly long
+U376,185,83,92,75,90,G789,Sweater,XL,3,Sleeves slightly long
+U377,177,93,104,92,108,G888,Kurta,XL,4,"Good fit, slight adjustments needed"
+U378,170,67,97,74,92,G888,Kurta,M,2,"Sleeves short, chest ok"
+U379,186,70,95,76,102,G888,Kurta,M,1,Sleeves and waist don't fit at all
+U380,189,74,108,77,96,G701,Jacket,M,1,"Very loose, not wearable"
+U381,160,72,109,79,105,G888,Kurta,L,2,Loose around shoulders
+U382,189,67,109,82,107,G888,Kurta,S,1,Sleeves and waist don't fit at all
+U383,170,65,81,86,101,G210,Dress,S,1,Too tight overall
+U384,181,71,102,80,88,G701,Jacket,XS,5,Perfect fit overall
+U385,181,91,109,93,100,G789,Sweater,S,3,Good length but too tight at hips
+U386,173,91,81,94,109,G302,Jeans,XL,2,"Sleeves short, chest ok"
+U387,157,61,93,93,90,G501,T-Shirt,L,4,"Good fit, slight adjustments needed"
+U388,173,52,80,74,103,G654,Blazer,XS,3,Good length but too tight at hips
+U389,184,91,97,81,100,G701,Jacket,XL,4,"Comfortable fit, minor looseness at waist"
+U390,167,57,90,70,108,G789,Sweater,M,2,Loose around shoulders
+U391,176,68,98,86,109,G210,Dress,S,5,Ideal for body shape
+U392,180,77,96,75,87,G456,Skirt,XS,2,Loose around shoulders
+U393,185,70,109,72,85,G888,Kurta,L,2,Waist area too tight
+U394,172,71,89,83,108,G654,Blazer,XS,3,Sleeves slightly long
+U395,178,94,87,66,106,G302,Jeans,L,3,Fits chest but loose at waist
+U396,180,93,96,94,107,G888,Kurta,XS,3,Good length but too tight at hips
+U397,169,64,110,69,100,G701,Jacket,L,5,"Excellent fit, natural flow"
+U398,181,94,97,94,100,G321,Hoodie,S,2,"Sleeves short, chest ok"
+U399,160,83,94,81,107,G123,Shirt,XS,5,Perfect fit overall
